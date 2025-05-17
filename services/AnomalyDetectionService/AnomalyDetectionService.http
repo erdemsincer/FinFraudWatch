@@ -1,0 +1,6 @@
+@AnomalyDetectionService_HostAddress = http://localhost:5268
+
+GET {{AnomalyDetectionService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
